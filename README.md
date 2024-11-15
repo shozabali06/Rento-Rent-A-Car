@@ -27,7 +27,7 @@ Rento is a beginner-level car rental website project designed to showcase web de
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/shozabali06/rento.git
+   git clone https://github.com/shozabali06/Rento-Rent-A-Car.git
    ```
 
 2. **Open in Browser**  
